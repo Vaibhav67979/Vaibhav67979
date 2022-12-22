@@ -1,7 +1,6 @@
  <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">I'm a student passionate about machine learning and game development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav67979&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav67979" /> </p>
 
 - 🔭 I’m currently working on **AI/ML**
 
@@ -17,7 +16,7 @@
 
 - ⚡ Fun fact **I'm an anime weeb and a gamer.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -40,9 +39,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vaibhav67979&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav67979&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav67979" /> </p>
 
