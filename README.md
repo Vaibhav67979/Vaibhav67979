@@ -1,6 +1,4 @@
-![Welcome](https://media.giphy.com/media/l3q2K5L3ZsOMI5nXO/giphy.gif){:height = "100px", width = "100px"}
-
- <h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">I'm a student passionate about machine learning and game development</h3>
 
 
