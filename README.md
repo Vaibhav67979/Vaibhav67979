@@ -1,4 +1,5 @@
- ![](https://i.pinimg.com/originals/3e/86/bc/3e86bcfd6d15353894d6e33f3bcf4cf1.gif)
+![Welcome](https://media.giphy.com/media/l3q2K5L3ZsOMI5nXO/giphy.gif)
+
  <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">I'm a student passionate about machine learning and game development</h3>
 
