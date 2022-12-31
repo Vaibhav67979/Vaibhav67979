@@ -1,4 +1,4 @@
-<img width=“964” alt=“Header image” src=“https://github.com/Vaibhav67979/Vaibhav67979/blob/main/dekubannerflip.png”>
+<img width="964" alt=“Headerimage” src="https://github.com/Vaibhav67979/Vaibhav67979/blob/main/dekubannerflip.png">
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">I'm a student passionate about machine learning and game development</h3>
 
