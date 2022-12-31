@@ -1,5 +1,7 @@
 ![dekubannerflip](https://user-images.githubusercontent.com/95418676/210138648-d76a83e5-4e11-4e0f-820c-4f71d041dc6e.png)
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+<p align="center">
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+</p>
 <h3 align="center">I'm a student passionate about machine learning and game development</h3>
 
 
