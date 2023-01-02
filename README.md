@@ -40,9 +40,9 @@
 </picture><br/> -->
 ![](https://github-readme-stats.vercel.app/api?username=Vaibhav67979&theme=transparent)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav67979&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav67979&theme=dark&hide_border=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact)
 
 
 ### ✍️ Random Dev Quote
