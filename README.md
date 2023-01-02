@@ -38,7 +38,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav67979&show_icons=true" />
 </picture><br/> -->
-![](https://github-readme-stats.vercel.app/api?username=Vaibhav67979&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav67979&theme=dark&hide_border=false)<br/>
 
