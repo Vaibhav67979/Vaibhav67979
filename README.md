@@ -37,13 +37,13 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav67979&show_icons=true" />
-</picture>
+</picture><br/>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav67979&theme=vision-friendly-dark&hide_border=false)<br/> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav67979&theme=vision-friendly-dark&hide_border=false" />
-</a> <br/>
+</a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav67979&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav67979&layout=compact" />
