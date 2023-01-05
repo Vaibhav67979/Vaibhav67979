@@ -34,7 +34,6 @@
 
 ![Top Langs](https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact)
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
