@@ -30,7 +30,7 @@
 
 ![](https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav67979&theme=github-dark-blue&hide_border=false)<br/>
+![](https://github-readme-stats-vaibhav67979.vercel.app/?user=Vaibhav67979&theme=github-dark-blue&hide_border=false)<br/>
 
 ![Top Langs](https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact)
 
