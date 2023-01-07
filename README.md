@@ -1,6 +1,6 @@
 ![dekubannerflip](https://user-images.githubusercontent.com/95418676/210138648-d76a83e5-4e11-4e0f-820c-4f71d041dc6e.png)
 <p align = "center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+this+is+Vaibhav+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+Github+profile" alt="Typing SVG" /></p>
-<h3 align="center">I'm a student passionate about machine learning and game development</h3>
+<h3 align="center">I'm a student/software developer with a passion for building things that make a difference. When I'm not coding, you can find me gaming or watching anime. I'm always looking to collaborate and learn from others, so don't hesitate to reach out!</h3>
 
 
 - 🔭 I’m currently working on **AI/ML**
