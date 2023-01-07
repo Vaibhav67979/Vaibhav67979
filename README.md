@@ -18,17 +18,17 @@
 - ⚡ Fun fact **I'm an anime weeb and a gamer.**
 
 
-<p align="center">
-
-
-
+<p style="text-align: center;">
  
  
-# 💻 Tech Stack:
+<h1 align = "center"> 💻 Tech Stack: <h1>
+<p align = "center">
+ 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 
-
-# 📊 GitHub Stats:
+</p>
+ 
+<h1 align = "center"> 📊 GitHub Stats: </h1>
 
 ![](https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true)
 
@@ -36,7 +36,8 @@
 
 ![Top Langs](https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact)
 
-### ✍️ Random Dev Quote
+<h2 align = "center"> ✍️ Random Dev Quote </h2>
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
