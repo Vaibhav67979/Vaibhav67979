@@ -80,7 +80,7 @@
   <br>
   <br>
 <a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Vaibhav67979&theme=github-dark-blue" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" />
 </a>
   <br>
   <br>
