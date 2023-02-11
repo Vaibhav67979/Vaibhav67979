@@ -14,7 +14,8 @@
 <a href = "https://www.linkedin.com/in/vaibhav-p-a2585122b/" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" alt="linkedin" width="40" height="40"></a>
 <a href = "https://twitter.com/vforvaibhav_" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201380771-3ce2a265-2d21-4ebf-9553-c4e70fb647d0.png" width="40" height="40"></a>
 <a href = "https://www.instagram.com/v_for_vaibhav_/" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="40" height="40"></a>
-<a href = "https://vaibhav67979.github.io" target ="blank"> <img src="https://user-images.githubusercontent.com/95418676/218271215-c14c2098-a9af-4ce4-9f40-a7997e362ae8.png" alt="instagram" width="40" height="40"></a>
+<a href = "https://vaibhav67979.github.io" target ="blank"> <img src="https://user-images.githubusercontent.com/95418676/218271368-726d49a5-d937-4387-9554-f0a5c1113874.jpg" alt="instagram" width="40" height="40"></a>
+
 </div>
 
 <h1 align = "center"> 💻 Tech Stack: </h1>
