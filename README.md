@@ -58,13 +58,13 @@
  
 - 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **lua, love, tensorflow and openCV**
+- 🌱 I’m currently learning **tensorflow and openCV**
 
 - 👯 I’m looking to collaborate on **AI/ML**
 
-- 🤝 I’m looking for help with **lua and love**
+- 🤝 I’m looking for help with **AI/ML**
 
-- 💬 Ask me about **Python, Django, Lua**
+- 💬 Ask me about **Python, Django, AI/ML**
 
 - 📫 How to reach me **vaibhav67979@gmail.com**
 
