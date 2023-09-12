@@ -1,4 +1,4 @@
-![Hello, my name is Vaibhav  Nice to meet you](https://user-images.githubusercontent.com/95418676/233802620-908f3f35-0f74-4127-a6c9-1d4575e9196c.png)
+1![Hello, my name is Vaibhav  Nice to meet you](https://user-images.githubusercontent.com/95418676/233802620-908f3f35-0f74-4127-a6c9-1d4575e9196c.png)
 <!-- ![dekubannerflip](https://user-images.githubusercontent.com/95418676/210138648-d76a83e5-4e11-4e0f-820c-4f71d041dc6e.png) -->
 <!-- ![undraw_code_thinking_re_gka2](https://user-images.githubusercontent.com/95418676/218168932-5a77dc17-ed25-456f-9130-f879999cc354.svg) -->
 <!-- ![undraw_feeling_proud_qne1](https://user-images.githubusercontent.com/95418676/218180455-388596fb-012f-41be-8c97-909c6213075f.svg) -->
@@ -72,6 +72,7 @@
 
  
 <h1 align = "center"> 📊 GitHub Stats: </h1>
+
 <!-- ![](https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vaibhav67979&theme=github-dark-blue)<br/>
