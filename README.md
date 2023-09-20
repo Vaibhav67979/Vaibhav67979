@@ -89,7 +89,6 @@
 <a>
   <img align="center" src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" />
 </a>
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Vaibhav67979)](https://git.io/streak-stats)
   <br>
   <br>
 <a>
