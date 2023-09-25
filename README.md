@@ -69,7 +69,7 @@
 
 - 📫 How to reach me **vaibhav67979@gmail.com**
 
-- ⚡ Fun fact **I'm an anime weeb and a gamer.**
+
 
  
 <h1 align = "center"> 📊 GitHub Stats: </h1>
