@@ -13,7 +13,7 @@
 
 <a href = "https://vaibhav67979.github.io/VaibhavPortfolio/" target ="blank"> <img src="https://user-images.githubusercontent.com/95418676/218271533-4619f6b3-586c-4123-8427-e231f52f10af.png" alt="portfolio website 2" width="40" height="40"></a>
 <a href = "mailto:vaibhav67979@gmail.com" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201382070-00f1f9ba-c37d-4b0a-9270-730e1d646b91.png" alt="gmail" width="40" height="40"></a>
-<a href = "" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" alt="linkedin" width="40" height="40"></a>
+<a href = "https://www.linkedin.com/in/vaibhav-p123/" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" alt="linkedin" width="40" height="40"></a>
 <a href = "https://twitter.com/vforvaibhav_" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201380771-3ce2a265-2d21-4ebf-9553-c4e70fb647d0.png" width="40" height="40"></a>
 <a href = "https://www.instagram.com/v_for_vaibhav_/" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="40" height="40"></a>
 <a href = "https://vaibhav67979.github.io" target ="blank"> <img src="https://user-images.githubusercontent.com/95418676/218271533-4619f6b3-586c-4123-8427-e231f52f10af.png" alt="portfolio website" width="40" height="40"></a>
