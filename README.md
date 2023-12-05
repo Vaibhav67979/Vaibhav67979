@@ -76,8 +76,8 @@
 
 <h2 align="center"> Contribution trophies </h2>
 <div align="center">
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vaibhav67979&no-bg=true&no-frame=true&rank=-C&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vaibhav67979&no-bg=true&no-frame=true&rank=-C&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <h2 align = "center"> ✍️ Random Dev Quote </h2>
