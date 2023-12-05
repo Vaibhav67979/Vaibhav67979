@@ -8,17 +8,17 @@
 <h3 align="center">I'm a student/software developer with a passion for building things that make a difference. When I'm not coding, you can find me gaming or watching anime. I'm always looking to collaborate and learn from others, so don't hesitate to reach out!</h3>
 
 <h1 align="center"> My Socials </h1>
-
+<p align="center">
 <a href = "https://vaibhav67979.github.io/VaibhavPortfolio/" target ="blank"> <img src="https://user-images.githubusercontent.com/95418676/218271533-4619f6b3-586c-4123-8427-e231f52f10af.png" alt="portfolio website 2" width="40" height="40"></a>
 <a href = "mailto:vaibhav67979@gmail.com" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201382070-00f1f9ba-c37d-4b0a-9270-730e1d646b91.png" alt="gmail" width="40" height="40"></a>
 <a href = "https://www.linkedin.com/in/vaibhav-p123/" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" alt="linkedin" width="40" height="40"></a>
 <a href = "https://twitter.com/vforvaibhav_" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201380771-3ce2a265-2d21-4ebf-9553-c4e70fb647d0.png" width="40" height="40"></a>
 <a href = "https://www.instagram.com/v_for_vaibhav_/" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="40" height="40"></a>
 <a href = "https://vaibhav67979.github.io" target ="blank"> <img src="https://user-images.githubusercontent.com/95418676/218271533-4619f6b3-586c-4123-8427-e231f52f10af.png" alt="portfolio website" width="40" height="40"></a>
-
+</p>
 
 <h1 align = "center"> 💻 Tech Stack: </h1>
-<!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) -->
+
 <p align = "center">
 <a>
   <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
@@ -77,7 +77,6 @@
 
 ![Top Langs](https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact)
  -->
-
 
 <p align="left"><a><img align="left" src="https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true" /></a></p>
 
