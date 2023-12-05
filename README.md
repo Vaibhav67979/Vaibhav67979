@@ -74,6 +74,12 @@
 <p align="center"><a><img align="center" src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" /></a></p>
 <p align="center"><a><img align="center" src="https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact" /></a></p>
 
+<h2 align="center"> Contribution trophies </h2>
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vaibhav67979&no-bg=true&no-frame=true&rank=-C&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 <h2 align = "center"> ✍️ Random Dev Quote </h2>
  <p align = "center">
 <a>
