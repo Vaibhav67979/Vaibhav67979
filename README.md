@@ -54,7 +54,7 @@
 
  
  
-- 🔭 I’m currently working on **AI/ML**
+- 🔭 I’m currently working on **Game playing AI**
 
 - 🌱 I’m currently learning **tensorflow and openCV**
 
@@ -70,27 +70,15 @@
 
  
 <h1 align = "center"> 📊 GitHub Stats: </h1>
-
-<!-- ![](https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vaibhav67979&theme=github-dark-blue)<br/>
-
-![Top Langs](https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact)
- -->
-
 <p align="left"><a><img align="left" src="https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true" /></a></p>
-
-<p align="right"><a><img align="right" src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" /></a></p>
-
+<p align="center"><a><img align="center" src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" /></a></p>
 <p align="center"><a><img align="center" src="https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact" /></a></p>
 
 <h2 align = "center"> ✍️ Random Dev Quote </h2>
  <p align = "center">
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 <a>
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </a>
  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav67979&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav67979" /> </p>
-
