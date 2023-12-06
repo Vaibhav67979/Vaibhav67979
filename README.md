@@ -69,10 +69,17 @@
 - ⚡ Fun fact **I'm an anime weeb and a gamer.**
 
  
-<h1 align = "center"> 📊 GitHub Stats: </h1>
-<p align="left"><a><img src="https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true" /></a></p>
-<p align="left"><a><img align="right" src="https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact" /></a></p>
-<p align="center"><a><img src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" /></a></p>
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" />
+</p>
+
 
 
 <h2 align="center"> Contribution trophies </h2>
