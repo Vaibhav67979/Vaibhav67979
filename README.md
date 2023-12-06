@@ -76,7 +76,8 @@
   <img src="https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact" />
 
 </div>
-
+<br>
+<br>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" />
 </p>
