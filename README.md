@@ -73,12 +73,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true" />
-  <img src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" />
+  <img src="https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact" />
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" />
 </p>
 
 
