@@ -56,7 +56,7 @@
  
 - 🔭 I’m currently working on **Game playing AI**
 
-- 🌱 I’m currently learning **tensorflow and openCV**
+- 🌱 I’m currently learning **tensorflow and pytorch**
 
 - 👯 I’m looking to collaborate on **AI/ML**
 
