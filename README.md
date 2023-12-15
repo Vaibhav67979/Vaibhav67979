@@ -4,7 +4,7 @@
 <!-- ![undraw_feeling_proud_qne1](https://user-images.githubusercontent.com/95418676/218180455-388596fb-012f-41be-8c97-909c6213075f.svg) -->
 
 
-<p align = "center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+this+is+Vaibhav+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+Github+profile" alt="Typing SVG" /></p>
+<p align = "center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+this+is+Vaibhav+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+Github+profile+!" alt="Typing SVG" /></p>
 <h3 align="center">I'm a student/software developer with a passion for building things that make a difference. When I'm not coding, you can find me gaming or watching anime. I'm always looking to collaborate and learn from others, so don't hesitate to reach out!</h3>
 
 <h1 align="center"> My Socials </h1>
