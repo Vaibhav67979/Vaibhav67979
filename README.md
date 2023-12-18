@@ -25,9 +25,6 @@
 <a>
   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
 </a>
- <a>
-  <img align="center" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white" />
-</a>
 <a>
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" />
 </a>
