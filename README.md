@@ -70,7 +70,7 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vaibhav67979" />
+  <img src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" />
 </p>
 
 
