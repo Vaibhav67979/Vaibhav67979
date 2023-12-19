@@ -65,12 +65,12 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img height=200px src="https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&theme=transparent&count_private=true&show_icons=true#gh-dark-mode-only" />
-  <img height=200px src="https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&theme=transparent&layout=compact#gh-dark-mode-only" />
+  <img height=200px src="https://github-readme-stats-vaibhav67979.vercel.app/api?username=Vaibhav67979&count_private=true&show_icons=true#gh-dark-mode-only" />
+  <img height=200px src="https://github-readme-stats-vaibhav67979.vercel.app/api/top-langs/?username=Vaibhav67979&layout=compact#gh-dark-mode-only" />
 </div>
 <br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vaibhav67979&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com/?user=Vaibhav67979#gh-dark-mode-only" />
 </p>
 
 
