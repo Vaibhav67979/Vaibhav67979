@@ -70,7 +70,7 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vaibhav67979#gh-dark-mode-only" />
+  <img src="https://streak-stats.demolab.com/?user=Vaibhav67979" />
 </p>
 
 
