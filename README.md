@@ -47,13 +47,13 @@
 
  
  
-- 🔭 I’m currently working on **Game playing AI**
+- 🔭 I’m currently working on **Game playing AI, NLP**
 
 - 🌱 I’m currently learning **tensorflow and pytorch**
 
 - 👯 I’m looking to collaborate on **AI/ML**
 
-- 🤝 I’m looking for help with **AI/ML**
+- 🤝 I’m looking for help with **NLP**
 
 - 💬 Ask me about **Python, Django, AI/ML**
 
