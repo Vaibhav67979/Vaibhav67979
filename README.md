@@ -88,4 +88,11 @@
 </a>
  </p>
 
+ <h2 align = "center"> ⌚ Github Rewind 2023 </h2>
+ <p align = "center">
+<a>
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</a>
+ </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav67979&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav67979" /> </p>
