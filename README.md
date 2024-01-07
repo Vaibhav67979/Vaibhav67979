@@ -88,10 +88,10 @@
 </a>
  </p>
 
- <h2 align = "center"> ⌚ Github Rewind 2023 </h2>
+ <h2 align = "center"> ⌚ Github Wrapped 2023 </h2>
  <p align = "center">
 <a>
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img align="center" src="https://github.com/Vaibhav67979/Vaibhav67979/blob/bb0701176687a3b6572f102498305421212682de/github-wrapped.png" />
 </a>
  </p>
 
