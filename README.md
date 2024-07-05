@@ -88,9 +88,4 @@
 </a>
  </p>
 
- <h2 align = "center"> ⌚ Github Wrapped 2023 </h2>
- <p align = "center">
-<a>
-  <img align="center" src="https://github.com/Vaibhav67979/Vaibhav67979/blob/bb0701176687a3b6572f102498305421212682de/github-wrapped.png" />
-</a>
- </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav67979&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav67979" /> </p>
